@@ -2,12 +2,6 @@
 title: CV
 ---
 
-# Adam Muzaffar Abd Razak
-
-Engineering Student specializing in digital systems, FPGA design, and electronics. Strong foundation in circuit analysis, hardware description languages, and simulation tools. Passionate about building efficient and reliable hardware systems.
-
----
-
 ## Education
 
 **Bachelor of Electrical & Electronic Engineering (Hons.)**  
