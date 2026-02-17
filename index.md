@@ -64,6 +64,6 @@ Designed and simulated combinational and sequential logic circuits using Quartus
 
 ## Contact
 
-Email: adam.abd-razak@outlook.my  
-GitHub: https://github.com/adamabd-razak  
-LinkedIn: https://www.linkedin.com/in/adamabd-razak
+Email: [adam.abd-razak@outlook.my](mailto:adam.abd-razak@outlook.my)  
+GitHub: [adamabd-razak](https://github.com/adamabd-razak)  
+LinkedIn: [Adam Muzaffar Abd Razak](https://www.linkedin.com/in/adamabd-razak)
