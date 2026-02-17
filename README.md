@@ -16,5 +16,6 @@ The Jekyll Minimal theme provided by GitHub Pages is used for clean layout and d
 
 ## Contact & Links
 
-- GitHub: https://github.com/adamabd-razak
 - Email: adam.abd-razak@outlook.my
+- GitHub: https://github.com/adamabd-razak
+- LinkedIn: https://www.linkedin.com/in/adamabd-razak
