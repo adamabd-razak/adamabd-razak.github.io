@@ -13,7 +13,6 @@ The Jekyll Minimal theme provided by GitHub Pages is used for clean layout and d
 
 - `index.md` — Main CV / homepage
 - `_config.yml` — Jekyll configuration and theme setup
-- `assets/` — Images, styles, and other site assets (if used)
 
 ## Contact & Links
 
