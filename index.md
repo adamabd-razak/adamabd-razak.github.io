@@ -4,7 +4,7 @@ title: CV
 
 ## Education
 
-**Bachelor of Electrical & Electronic Engineering (Hons.)**  
+**Bachelor of Electrical and Electronics Engineering (Honours)**  
 Universiti Tenaga Nasional  
 2025 – Present  
 
