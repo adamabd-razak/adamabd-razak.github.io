@@ -17,5 +17,6 @@ minima:
   nav_pages:
     - about.md
   show_excerpts: true
-  github_username: adamabd-razak
+  social_links:
+    - { platform: github, icon: github, url: "https://github.com/adamabd-razak", title: "GitHub" }
   hide_site_feed_link: true
