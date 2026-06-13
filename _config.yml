@@ -1,0 +1,25 @@
+title: Adam's Blog
+
+author:
+  name: Adam Muzaffar Abd Razak
+  email: "adam.abd-razak@outlook.my"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+description: >
+  Technical insights at the intersection of climate science and emerging technologies.
+
+theme: minima
+
+minima:
+  skin: classic
+  nav_pages:
+    - about.md
+  show_excerpts: true
+  social_links:
+    - title: Adam on GitHub
+      icon: github
+      url: "https://github.com/adamabd-razak"
+  hide_site_feed_link: true
